@@ -19,7 +19,7 @@ const { items, total } = storeToRefs(cartStore);
   <header class="navbar bg-base-100 shadow sticky top-0 left-0 z-10">
     <div class="flex items-center justify-center max-w-6xl w-full mx-auto">
       <div class="flex-1">
-        <RouterLink to="/" class="btn btn-ghost text-xl px-0.5 hover:bg-white font-medium">Shopping Store</RouterLink>
+        <RouterLink to="/" class="btn btn-ghost text-xl px-0.5 hover:bg-white font-medium">Shopping Store manh cho</RouterLink>
       </div>
       <div class="flex-none flex">
 
